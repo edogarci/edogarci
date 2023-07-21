@@ -1,7 +1,7 @@
 
 ### Hello, I'm [Edorta](https://www.linkedin.com/in/edortagarcia/) 👋 senior developer now focusing on Artificial Inteligence
 
-After +10 years of experience developing SAP solutions for international companies, I am now focused on AI.
+After +10 years of experience developing SAP solutions for international companies, I am now focused on how to develop and implement AI.
 
 To achive this:
 - I am a student at [42 Málaga](https://www.42malaga.com/) learning mainly C language
