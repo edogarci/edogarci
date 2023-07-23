@@ -5,8 +5,8 @@ After +10 years of experience developing SAP solutions for international compani
 
 To achive this:
 - I am a student at [42 Málaga](https://www.42malaga.com/) learning mainly C language
-- I am learning Python by myself at [Udemy](https://www.udemy.com/)
-- I am studying Machine Learning algorithms and how to implement them using Python (Numpy, Pandas, Matplotlib...) at [Udemy](https://www.udemy.com/)
+- I am learning Python at [Udemy](https://www.udemy.com/)
+- I am studying Machine Learning algorithms and how to implement them using Python (Numpy, Pandas, Matplotlib, Scikit Learn...) at [Udemy](https://www.udemy.com/)
 - I create my own projects and publish them here at Github! Take a look! 👀
 
 <h3 align="left">Languages:</h3>
