@@ -1,17 +1,15 @@
 
 ### Hello, I'm [Edorta](https://www.linkedin.com/in/edortagarcia/) 👋 senior developer now focusing on Artificial Inteligence
 
-After +10 years of experience developing SAP projects, I am now focused on how to apply and implement Artificial Inteligence.
+After +10 years of experience, I am now focused on how to apply and implement Artificial Inteligence.
 
 To achive this:
 - I am a student at [42 Málaga](https://www.42malaga.com/)
-- I am learning [SAP BTP](https://www.sap.com/products/technology-platform.html) platform
-- I am learning [Python](https://www.python.org/)
+- I am learning [SAP BTP](https://www.sap.com/products/technology-platform.html) and [Python](https://www.python.org/)
 - I am studying ML and Deep Learning and how to implement them
   - Numpy, Pandas, Matplotlib, Scikit Learn...
   - Tensorflow and Keras
-  - OpenCV
-  - Gradio
+  - OpenCV, Gradio...
 - I create my own projects and publish them at Github and HuggingFace! Take a look! 👀
 - One of my goals is to learn how to integrate AI and SAP to improve business processes using Artificial Intelligence capabilities.
 
